@@ -1,5 +1,5 @@
 import * as tmPose from '@teachablemachine/pose';
-        const URL = "https://teachablemachine.withgoogle.com/models/6Mizp6iQ/";
+        const URL = "https://teachablemachine.withgoogle.com/models/O-d7TB1i/";
         let model, webcam, ctx, maxPredictions;
         async function init() {
             const modelURL = URL + "model.json";
